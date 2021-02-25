@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
 }
@@ -14,7 +15,7 @@ div {
 }
 
 h1 {
-  font: italic bold 2em 'Open Sans', serif;
+  font: italic bold 2em "Open Sans", serif;
 }
 
 img {

@@ -1,4 +1,5 @@
-body, html {
+body,
+html {
   margin: 0;
   padding: 0;
 }
@@ -6,5 +7,5 @@ body, html {
 p {
   border: 3px solid grey;
   /*Add your CSS below this line*/
-    margin: 20px;
+  margin: 20px;
 }
