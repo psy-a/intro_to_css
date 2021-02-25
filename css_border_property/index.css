@@ -1,0 +1,17 @@
+h2 {
+  width:200px;
+  border: 5px solid;
+  border-radius: 20px;
+  border-color: brown;
+  padding: 10px;
+  
+  /*Add your CSS below this line*/
+}
+
+h3 {
+  width:150px;
+  border: 5px solid;
+  border-radius: 20%;
+  
+  /*Add your CSS below this line*/
+}

@@ -1,0 +1,37 @@
+h1 {
+  background-color: #d4d7f7;
+  color: #63473e;
+  font-family: "papyrus";
+}
+li {
+  background-color: #e8e9f7;
+}
+img {
+  background-color: #e2ccac;
+  width: 200;
+}
+h3 {
+  color: #6b5f5b;
+  font-family: monospace;
+  font-style: italic;
+  font-size: large;
+}
+p {
+  font-family: cursive;
+  font-weight: 600;
+}
+section {
+  background-color: white;
+}
+h2 {
+  color: #aaa;
+}
+h4 {
+  color: rgba(170, 170, 170, 0.2);
+}
+h5 {
+  color: #999999;
+}
+h6 {
+  color: rgba(170, 170, 170, 0.5);
+}
